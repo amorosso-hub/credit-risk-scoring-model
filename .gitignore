@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.streamlit/secrets.toml
+
+temp/
+st_data/*.parquet
+st_data/*.csv
+st_data/*.ipynb
+*.joblib.bak
+.DS_Store
