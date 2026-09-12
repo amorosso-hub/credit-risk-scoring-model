@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+pyarrow
+joblib
+scikit-learn
+xgboost
+shap
+packaging
+python-dotenv
+google-genai
+pydantic
+altair
